@@ -20,7 +20,7 @@ Please note that all the CSV files are colon-separated instead of comma.
 
 ### Student Information
 
-Filename: student_info.csv
+_Filename:_ student_info.csv
 
 *Format:*
 ```
@@ -32,3 +32,6 @@ ROLL:NAME
 32:Syed Abdullah Khan
 25:Mehedi Hasan
 ```
+
+### Paper Information
+_Filename:_ paper_info.csv
