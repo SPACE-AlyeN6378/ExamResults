@@ -22,7 +22,13 @@ Please note that all the CSV files are colon-separated instead of comma.
 
 Filename: student_info.csv
 
-Format: 
+*Format:*
 ```
 ROLL:NAME
+```
+
+*Example:*
+```
+32:Syed Abdullah Khan
+25:Mehedi Hasan
 ```
